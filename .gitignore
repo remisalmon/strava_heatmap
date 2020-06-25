@@ -1,3 +1,6 @@
 gpx/*.gpx
 tiles/*.png
 virtualenv
+/.idea/
+/venv/
+/Strava_local_heatmap.egg-info/
